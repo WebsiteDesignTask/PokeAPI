@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PokeAPI</string>
+    <string name="poke_img">Image of Pokemon</string>
+    <string name="poke_name">Pokemon:</string>
+    <string name="poke_type">Type:</string>
+    <string name="find_poke">Enter a Pokemon</string>
+    <string name="pokedex">Pokedex</string>
+</resources>
